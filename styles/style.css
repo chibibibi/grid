@@ -1,0 +1,64 @@
+/*GLOBAL STYLES*/
+body {
+  min-height:100vh;
+}
+
+.logo {
+  background-color: red;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.outer {
+  background-color: lavender;
+  padding:15px;
+  border: 1px solid #000;
+}
+
+.navigation {
+  background-color: blue;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.jumbotron {
+  background-color: purple;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.content {
+  background-color: teal;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.aside {
+  background-color: orange;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.promo {
+  background-color: pink;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.footer {
+  background-color: skyblue;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.pre-offset {
+  background-color: ivory;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.offset {
+  background-color: cyan;
+  border: 1px solid #000;
+  padding: 25px;
+}
