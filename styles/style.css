@@ -64,11 +64,26 @@ body {
   padding: 25px;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
   .logo {
     background-color:blue;
   }
   .aside {
     background-color: skyblue;
+  }
+  .promo {
+    background-color: salmon;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .logo {
+    background-color:green;
+  }
+  .aside {
+    background-color: indigo;
+  }
+  .promo {
+    background-color: #000;
   }
 }
