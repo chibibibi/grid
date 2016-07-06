@@ -68,4 +68,7 @@ body {
   .logo {
     background-color:blue;
   }
+  .aside {
+    background-color: skyblue;
+  }
 }
